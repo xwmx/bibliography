@@ -1,0 +1,390 @@
+
+@inproceedings{melnik_dremel:_2010,
+	title = {Dremel: Interactive Analysis of Web-Scale Datasets},
+	url = {http://www.vldb2010.org/accept.htm},
+	abstract = {Dremel is a scalable, interactive ad-hoc query system for analysis of read-only nested data. By combining multi-level execution trees and columnar data layout, it is capable of running aggregation queries over trillion-row tables in seconds. The system scales to thousands of {CPUs} and petabytes of data, and has thousands of users at Google. In this paper, we describe the architecture and implementation of Dremel, and explain how it complements {MapReduce-based} computing. We present a novel columnar storage representation for nested records and discuss experiments on few-thousand node instances of the system.},
+	booktitle = {Proc. of the 36th Int'l Conf on Very Large Data Bases},
+	author = {Melnik, Sergey and Gubarev, Andrey and Long, Jing Jing and Romer, Geoffrey and Shivakumar, Shiva and Tolton, Matt and Vassilakis, Theo},
+	year = {2010},
+	pages = {330--339}
+},
+
+@inproceedings{baker_megastore:_2011,
+	title = {Megastore: Providing Scalable, Highly Available Storage for Interactive Services},
+	url = {http://www.cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf},
+	abstract = {Megastore is a storage system developed to meet the requirements of today's interactive online services. Megastore blends the scalability of a {NoSQL} datastore with the convenience of a traditional {RDBMS} in a novel way, and provides both strong consistency guarantees and high availability. We provide fully serializable {ACID} semantics within fine-grained partitions of data. This partitioning allows us to synchronously replicate each write across a wide area network with reasonable latency and support seamless failover between datacenters. This paper describes Megastore's semantics and replication algorithm. It also describes our experience supporting a wide range of Google production services built with Megastore.},
+	booktitle = {Proceedings of the Conference on Innovative Data system Research ({CIDR)}},
+	author = {Baker, Jason and Bond, Chris and Corbett, James C. and Furman, J. J. and Khorlin, Andrey and Larson, James and Leon, Jean-Michel and Li, Yawei and Lloyd, Alexander and Yushprakh, Vadim},
+	year = {2011},
+	pages = {223–234}
+},
+
+@inproceedings{peng_large-scale_2010,
+	title = {Large-scale Incremental Processing Using Distributed Transactions and Notifications},
+	abstract = {Updating an index of the web as documents are crawled requires continuously transforming a large repository of existing documents as new documents arrive. This task is one example of a class of data processing tasks that transform a large repository of data via small, independent mutations. These tasks lie in a gap between the capabilities of existing infrastructure. Databases do not meet the storage or throughput requirements of these tasks: Google's indexing system stores tens of petabytes of data and processes billions of updates per day on thousands of machines. {MapReduce} and other batch-processing systems cannot process small updates individually as they rely on creating large batches for efficiency.
+
+We have built Percolator, a system for incrementally processing updates to a large data set, and deployed it to create the Google web search index. By replacing a batch-based indexing system with an indexing system based on incremental processing using Percolator, we process the same number of documents per day, while reducing the average age of documents in Google search results by 50\%.},
+	booktitle = {Proceedings of the 9th {USENIX} Symposium on Operating Systems Design and Implementation},
+	author = {Peng, Daniel and Dabek, Frank},
+	year = {2010}
+},
+
+@inproceedings{dean_mapreduce:_2004,
+	address = {Berkeley, {CA}, {USA}},
+	series = {{OSDI'04}},
+	title = {{MapReduce:} Simplified Data Processing on Large Clusters},
+	url = {http://dl.acm.org/citation.cfm?id=1251254.1251264},
+	abstract = {{MapReduce} is a programming model and an associated implementation for processing and generating large data sets. Users specify a map function that processes a key/value pair to generate a set of intermediate key/value pairs, and a reduce function that merges all intermediate values associated with the same intermediate key. Many real world tasks are expressible in this model, as shown in the paper.
+
+Programs written in this functional style are automatically parallelized and executed on a large cluster of commodity machines. The run-time system takes care of the details of partitioning the input data, scheduling the program's execution across a set of machines, handling machine failures, and managing the required inter-machine communication. This allows programmers without any experience with parallel and distributed systems to easily utilize the resources of a large distributed system.
+
+Our implementation of {MapReduce} runs on a large cluster of commodity machines and is highly scalable: a typical {MapReduce} computation processes many terabytes of data on thousands of machines. Programmers find the system easy to use: hundreds of {MapReduce} programs have been implemented and upwards of one thousand {MapReduce} jobs are executed on Google's clusters every day.},
+	booktitle = {Proceedings of the 6th Conference on Symposium on Opearting Systems Design \& Implementation - Volume 6},
+	publisher = {{USENIX} Association},
+	author = {Dean, Jeffrey and Ghemawat, Sanjay},
+	year = {2004},
+	pages = {10–10}
+},
+
+@inproceedings{ghemawat_google_2003,
+	address = {New York, {NY}, {USA}},
+	series = {{SOSP} '03},
+	title = {The Google File System},
+	isbn = {1-58113-757-5},
+	url = {http://doi.acm.org/10.1145/945445.945450},
+	doi = {10.1145/945445.945450},
+	abstract = {We have designed and implemented the Google File System, a scalable distributed file system for large distributed data-intensive applications. It provides fault tolerance while running on inexpensive commodity hardware, and it delivers high aggregate performance to a large number of clients.
+
+While sharing many of the same goals as previous distributed file systems, our design has been driven by observations of our application workloads and technological environment, both current and anticipated, that reflect a marked departure from some earlier file system assumptions. This has led us to reexamine traditional choices and explore radically different design points.
+
+The file system has successfully met our storage needs. It is widely deployed within Google as the storage platform for the generation and processing of data used by our service as well as research and development efforts that require large data sets. The largest cluster to date provides hundreds of terabytes of storage across thousands of disks on over a thousand machines, and it is concurrently accessed by hundreds of clients.
+
+In this paper, we present file system interface extensions designed to support distributed applications, discuss many aspects of our design, and report measurements from both micro-benchmarks and real world use.},
+	booktitle = {Proceedings of the Nineteenth {ACM} Symposium on Operating Systems Principles},
+	publisher = {{ACM}},
+	author = {Ghemawat, Sanjay and Gobioff, Howard and Leung, Shun-Tak},
+	year = {2003},
+	keywords = {clustered storage, data storage, fault tolerance, scalability},
+	pages = {29–43}
+},
+
+@article{welsh_seda:_2001,
+	title = {{SEDA:} An Architecture for Well-conditioned, Scalable Internet Services},
+	volume = {35},
+	issn = {0163-5980},
+	url = {http://doi.acm.org/10.1145/502059.502057},
+	doi = {10.1145/502059.502057},
+	abstract = {We propose a new design for highly concurrent Internet services, which we call the staged event-driven architecture ({SEDA).} {SEDA} is intended to support massive concurrency demands and simplify the construction of well-conditioned services. In {SEDA}, applications consist of a network of event-driven stages connected by explicit queues. This architecture allows services to be well-conditioned to load, preventing resources from being overcommitted when demand exceeds service capacity. {SEDA} makes use of a set of dynamic resource controllers to keep stages within their operating regime despite large fluctuations in load. We describe several control mechanisms for automatic tuning and load conditioning, including thread pool sizing, event batching, and adaptive load shedding. We present the {SEDA} design and an implementation of an Internet services platform based on this architecture. We evaluate the use of {SEDA} through two applications: a high-performance {HTTP} server and a packet router for the Gnutella peer-to-peer file sharing network. These results show that {SEDA} applications exhibit higher performance than traditional service designs, and are robust to huge variations in load.},
+	number = {5},
+	journal = {{SIGOPS} Oper. Syst. Rev.},
+	author = {Welsh, Matt and Culler, David and Brewer, Eric},
+	month = oct,
+	year = {2001},
+	pages = {230–243}
+},
+
+@article{chang_bigtable:_2008,
+	title = {Bigtable: A Distributed Storage System for Structured Data},
+	volume = {26},
+	issn = {0734-2071},
+	url = {http://doi.acm.org/10.1145/1365815.1365816},
+	doi = {10.1145/1365815.1365816},
+	abstract = {Bigtable is a distributed storage system for managing structured data that is designed to scale to a very large size: petabytes of data across thousands of commodity servers. Many projects at Google store data in Bigtable, including web indexing, Google Earth, and Google Finance. These applications place very different demands on Bigtable, both in terms of data size (from {URLs} to web pages to satellite imagery) and latency requirements (from backend bulk processing to real-time data serving). Despite these varied demands, Bigtable has successfully provided a flexible, high-performance solution for all of these Google products. In this article, we describe the simple data model provided by Bigtable, which gives clients dynamic control over data layout and format, and we describe the design and implementation of Bigtable.},
+	number = {2},
+	journal = {{ACM} Trans. Comput. Syst.},
+	author = {Chang, Fay and Dean, Jeffrey and Ghemawat, Sanjay and Hsieh, Wilson C. and Wallach, Deborah A. and Burrows, Mike and Chandra, Tushar and Fikes, Andrew and Gruber, Robert E.},
+	month = jun,
+	year = {2008},
+	keywords = {Distributed, Large-Scale, Storage},
+	pages = {4:1–4:26}
+},
+
+@article{_unicorn:_????,
+	title = {Unicorn: A System for Searching the Social Graph},
+	abstract = {Unicorn is an online, in-memory social graph-aware indexing system designed to search trillions of edges between tens of billions of users and entities on thousands of commodity servers. Unicorn is based on standard concepts in information retrieval, but it includes features to promote results with good social proximity. It also supports queries that require multiple round-trips to leaves in order to retrieve objects that are more than one edge away from source nodes. Unicorn is designed to answer billions of queries per day at latencies in the hundreds of milliseconds, and it serves as an infrastructural building block for Facebook’s Graph Search product. In this paper, we describe the data model and query language supported by Unicorn. We also describe its evolution as it became the primary backend for Facebook’s search offerings.},
+	journal = {{VLDB} 2013 Industrial Track}
+},
+
+@article{lakshman_cassandra:_2010,
+	title = {Cassandra: A Decentralized Structured Storage System},
+	volume = {44},
+	issn = {0163-5980},
+	url = {http://doi.acm.org/10.1145/1773912.1773922},
+	doi = {10.1145/1773912.1773922},
+	abstract = {Cassandra is a distributed storage system for managing very large amounts of structured data spread out across many commodity servers, while providing highly available service with no single point of failure. Cassandra aims to run on top of an infrastructure of hundreds of nodes (possibly spread across different data centers). At this scale, small and large components fail continuously. The way Cassandra manages the persistent state in the face of these failures drives the reliability and scalability of the software systems relying on this service. While in many ways Cassandra resembles a database and shares many design and implementation strategies therewith, Cassandra does not support a full relational data model; instead, it provides clients with a simple data model that supports dynamic control over data layout and format. Cassandra system was designed to run on cheap commodity hardware and handle high write throughput while not sacrificing read efficiency.},
+	number = {2},
+	journal = {{SIGOPS} Oper. Syst. Rev.},
+	author = {Lakshman, Avinash and Malik, Prashant},
+	month = apr,
+	year = {2010},
+	pages = {35–40}
+},
+
+@article{letia_crdts:_2009,
+	title = {{CRDTs:} Consistency without concurrency control},
+	volume = {abs/0907.0929},
+	abstract = {A {CRDT} is a data type whose operations commute when they are concurrent. Replicas of a {CRDT} eventually converge without any complex concurrency control. As an existence proof, we exhibit a non-trivial {CRDT:} a shared edit buffer called Treedoc. We outline the design, implementation and performance of Treedoc. We discuss how the {CRDT} concept can be generalised, and its limitations.},
+	journal = {{CoRR}},
+	author = {Letia, Mihai and Pregui{\textbackslash}cca, Nuno M. and Shapiro, Marc},
+	year = {2009}
+},
+
+@inproceedings{bronson_tao:_2013,
+	address = {San Jose, California},
+	title = {{TAO:} Facebooks Distributed Data Store For The Social Graph},
+	url = {http://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/11730-atc13-bronson.pdf},
+	abstract = {We introduce a simple data model and {API} tailored for serving the social graph, and {TAO}, an implementation of this model. {TAO} is a geographically distributed data store that provides efficient and timely access to the social graph for Facebook’s demanding workload using a fixed set of queries. It is deployed at Facebook, replacing memcache for many data types that fit its model. The system runs on thousands of machines, is widely distributed, and provides access to many petabytes of data. {TAO} can process a billion reads and millions of writes each second.},
+	booktitle = {Proceedingsof the {USENIX} Annual Tech- nical Conference},
+	author = {Bronson, Nathan and Amsden, Zach and Cabrera, George and Chakka, Prasad and Dimov, Peter and Ding, Hui and Ferris, Jack and Giardullo, Anthony and Kulkarni, Sachin and Li, Harry and Marchukov, Mark and Petrov, Dmitri and Puzar, Lovro and Song, Yee Jiun and Venkataramani, Venkat},
+	month = jun,
+	year = {2013},
+	pages = {49--60},
+	annote = {Usenix {ATC} ‘13 proceedings link (with video): https://www.usenix.org/conference/atc13/technical-sessions/papers/bronson
+{TAO:} The power of the graph: https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920}
+},
+
+@inproceedings{decandia_dynamo:_2007,
+	address = {New York, {NY}, {USA}},
+	series = {{SOSP} '07},
+	title = {Dynamo: Amazon's Highly Available Key-value Store},
+	isbn = {978-1-59593-591-5},
+	url = {http://doi.acm.org/10.1145/1294261.1294281},
+	doi = {10.1145/1294261.1294281},
+	abstract = {Reliability at massive scale is one of the biggest challenges we face at Amazon.com, one of the largest e-commerce operations in the world; even the slightest outage has significant financial consequences and impacts customer trust. The Amazon.com platform, which provides services for many web sites worldwide, is implemented on top of an infrastructure of tens of thousands of servers and network components located in many datacenters around the world. At this scale, small and large components fail continuously and the way persistent state is managed in the face of these failures drives the reliability and scalability of the software systems.
+
+This paper presents the design and implementation of Dynamo, a highly available key-value storage system that some of Amazon's core services use to provide an "always-on" experience. To achieve this level of availability, Dynamo sacrifices consistency under certain failure scenarios. It makes extensive use of object versioning and application-assisted conflict resolution in a manner that provides a novel interface for developers to use.},
+	booktitle = {Proceedings of Twenty-first {ACM} {SIGOPS} Symposium on Operating Systems Principles},
+	publisher = {{ACM}},
+	author = {{DeCandia}, Giuseppe and Hastorun, Deniz and Jampani, Madan and Kakulapati, Gunavardhan and Lakshman, Avinash and Pilchin, Alex and Sivasubramanian, Swaminathan and Vosshall, Peter and Vogels, Werner},
+	year = {2007},
+	keywords = {performance, reliability, scalability},
+	pages = {205–220}
+},
+
+@article{cugola_processing_2012,
+	title = {Processing Flows of Information: From Data Stream to Complex Event Processing},
+	volume = {44},
+	issn = {0360-0300},
+	url = {http://doi.acm.org/10.1145/2187671.2187677},
+	doi = {10.1145/2187671.2187677},
+	abstract = {A large number of distributed applications requires continuous and timely processing of information as it flows from the periphery to the center of the system. Examples include intrusion detection systems which analyze network traffic in real-time to identify possible attacks; environmental monitoring applications which process raw data coming from sensor networks to identify critical situations; or applications performing online analysis of stock prices to identify trends and forecast future values.
+
+Traditional {DBMSs}, which need to store and index data before processing it, can hardly fulfill the requirements of timeliness coming from such domains. Accordingly, during the last decade, different research communities developed a number of tools, which we collectively call Information flow processing ({IFP)} systems, to support these scenarios. They differ in their system architecture, data model, rule model, and rule language. In this article, we survey these systems to help researchers, who often come from different backgrounds, in understanding how the various approaches they adopt may complement each other.
+
+In particular, we propose a general, unifying model to capture the different aspects of an {IFP} system and use it to provide a complete and precise classification of the systems and mechanisms proposed so far.},
+	number = {3},
+	journal = {{ACM} Comput. Surv.},
+	author = {Cugola, Gianpaolo and Margara, Alessandro},
+	month = jun,
+	year = {2012},
+	keywords = {Complex event processing, publish-subscribe, stream processing},
+	pages = {15:1–15:62}
+},
+
+@book{wickham_split-apply-combine_2009,
+	title = {The split-apply-combine strategy for data analysis},
+	abstract = {Many data analysis problems involve the application of a split-applycombine strategy, where you break up a big problem into manageable pieces, operate on each piece independently and then put all the pieces back together. This insight gives rise to a new R package that allows one to smoothly apply this strategy, without having to worry what sort of structure your data is stored in. The paper includes two case studies showing how these insights make it easier to work with a number of batting records for veteran baseball players and a large 3d array of spatio-temporal ozone measurements. All code used in the paper is available in the supplemental materials online.},
+	author = {Wickham, Hadley},
+	year = {2009}
+},
+
+@article{bostock_d3:_2011,
+	title = {D3: Data-Driven Documents},
+	url = {http://vis.stanford.edu/papers/d3},
+	abstract = {Data-Driven Documents (D3) is a novel representation-transparent approach to visualization for the web. Rather than hide the underlying scenegraph within a toolkit-specific abstraction, D3 enables direct inspection and manipulation of a native representation: the standard document object model ({DOM).} With D3, designers selectively bind input data to arbitrary document elements, applying dynamic transforms to both generate and modify content. We show how representational transparency improves expressiveness and better integrates with developer tools than prior approaches, while offering comparable notational efficiency and retaining powerful declarative components. Immediate evaluation of operators further simplifies debugging and allows iterative development. Additionally, we demonstrate how D3 transforms naturally enable animation and interaction with dramatic performance improvements over intermediate representations.},
+	journal = {{IEEE} Trans. Visualization \& Comp. Graphics (Proc. {InfoVis)}},
+	author = {Bostock, Michael and Ogievetsky, Vadim and Heer, Jeffrey},
+	year = {2011}
+},
+
+@inproceedings{james_spanner:_2012,
+	address = {Hollywood, {CA}},
+	title = {Spanner: Google's Globally-Distributed Database},
+	url = {http://research.google.com/archive/spanner.html},
+	abstract = {Spanner is Google's scalable, multi-version, globally-distributed, and synchronously-replicated database. It is the first system to distribute data at global scale and support externally-consistent distributed transactions. This paper describes how Spanner is structured, its feature set, the rationale underlying various design decisions, and a novel time {API} that exposes clock uncertainty. This {API} and its implementation are critical to supporting external consistency and a variety of powerful features: non-blocking reads in the past, lock-free read-only transactions, and atomic schema changes, across all of Spanner.},
+	booktitle = {Proceedings of {OSDI'12:} Tenth Symposium on Operating System Design and Implementation},
+	author = {James},
+	month = oct,
+	year = {2012},
+	keywords = {db, Distributed, google, nosql, spanner, sql}
+},
+
+@book{hellerstein_quantitative_2008,
+	title = {Quantitative Data Cleaning for Large Databases},
+	url = {http://db.cs.berkeley.edu/jmh/papers/cleaning-unece.pdf},
+	abstract = {Data collection has become a ubiquitous function of large organizations – not only for record keeping, but to support a variety of data analysis tasks that are critical to the organizational mission. Data analysis typically drives decision-making processes and efficiency optimizations, and in an increasing number of settings is the raison d’etre of entire agencies or firms.},
+	author = {Hellerstein, Joseph M.},
+	year = {2008},
+	note = {Published: United Nations Economic Commission for Europe ({UNECE)}},
+	keywords = {cidr2011, tkde, uist2010}
+},
+
+@inproceedings{kyrola_graphchi:_2012,
+	address = {Berkeley, {CA}, {USA}},
+	series = {{OSDI'12}},
+	title = {{GraphChi:} Large-scale Graph Computation on Just a {PC}},
+	isbn = {978-1-931971-96-6},
+	url = {http://dl.acm.org/citation.cfm?id=2387880.2387884},
+	abstract = {Current systems for graph computation require a distributed computing cluster to handle very large real-world problems, such as analysis on social networks or the web graph. While distributed computational resources have become more accessible, developing distributed graph algorithms still remains challenging, especially to non-experts.
+
+In this work, we present {GraphChi}, a disk-based system for computing efficiently on graphs with billions of edges. By using a well-known method to break large graphs into small parts, and a novel parallel sliding windows method, {GraphChi} is able to execute several advanced data mining, graph mining, and machine learning algorithms on very large graphs, using just a single consumer-level computer. We further extend {GraphChi} to support graphs that evolve over time, and demonstrate that, on a single computer, {GraphChi} can process over one hundred thousand graph updates per second, while simultaneously performing computation. We show, through experiments and theoretical analysis, that {GraphChi} performs well on both {SSDs} and rotational hard drives.
+
+By repeating experiments reported for existing distributed systems, we show that, with only fraction of the resources, {GraphChi} can solve the same problems in very reasonable time. Our work makes large-scale graph computation available to anyone with a modern {PC.}},
+	booktitle = {Proceedings of the 10th {USENIX} Conference on Operating Systems Design and Implementation},
+	publisher = {{USENIX} Association},
+	author = {Kyrola, Aapo and Blelloch, Guy and Guestrin, Carlos},
+	year = {2012},
+	pages = {31–46}
+},
+
+@inproceedings{pavlo_comparison_2009,
+	address = {New York, {NY}, {USA}},
+	title = {A comparison of approaches to large-scale data analysis},
+	isbn = {978-1-60558-551-2},
+	url = {http://database.cs.brown.edu/papers/benchmarks-sigmod09.pdf},
+	doi = {http://doi.acm.org/10.1145/1559845.1559865},
+	abstract = {There is currently considerable enthusiasm around the {MapReduce} ({MR)} paradigm for large-scale data analysis [17]. Although the basic control flow of this framework has existed in parallel {SQL} database management systems ({DBMS)} for over 20 years, some have called {MR} a dramatically new computing model [8, 17]. In this paper, we describe and compare both paradigms. Furthermore, we evaluate both kinds of systems in terms of performance and development complexity. To this end, we define a benchmark consisting of a collection of tasks that we have run on an open source version of {MR} as well as on two parallel {DBMSs.} For each task, we measure each system's performance for various degrees of parallelism on a cluster of 100 nodes. Our results reveal some interesting trade-offs. Although the process to load data into and tune the execution of parallel {DBMSs} took much longer than the {MR} system, the observed performance of these {DBMSs} was strikingly better. We speculate about the causes of the dramatic performance difference and consider implementation concepts that future systems should take from both kinds of architectures.},
+	booktitle = {{SIGMOD} '09: Proceedings of the 35th {SIGMOD} international conference on Management of data},
+	publisher = {{ACM}},
+	author = {Pavlo, Andrew and Paulson, Erik and Rasin, Alexander and Abadi, Daniel J. and {DeWitt}, David J. and Madden, Samuel and Stonebraker, Michael},
+	year = {2009},
+	pages = {165–178}
+},
+
+@article{stonebraker_8_2005,
+	title = {The 8 requirements of real-time stream processing},
+	volume = {34},
+	issn = {0163-5808},
+	url = {http://doi.acm.org/10.1145/1107499.1107504},
+	doi = {10.1145/1107499.1107504},
+	abstract = {Applications that require real-time processing of high-volume data steams are pushing the limits of traditional data processing infrastructures. These stream-based applications include market feed processing and electronic trading on Wall Street, network and infrastructure monitoring, fraud detection, and command and control in military environments. Furthermore, as the "sea change" caused by cheap micro-sensor technology takes hold, we expect to see everything of material significance on the planet get "sensor-tagged" and report its state or location in real time. This sensorization of the real world will lead to a "green field" of novel monitoring and control applications with high-volume and low-latency processing {requirements.Recently}, several technologies have emerged—including off-the-shelf stream processing engines—specifically to address the challenges of processing high-volume, real-time data without requiring the use of custom code. At the same time, some existing software technologies, such as main memory {DBMSs} and rule engines, are also being "repurposed" by marketing departments to address these {applications.In} this paper, we outline eight requirements that a system software should meet to excel at a variety of real-time stream processing applications. Our goal is to provide high-level guidance to information technologists so that they will know what to look for when evaluation alternative stream processing solutions. As such, this paper serves a purpose comparable to the requirements papers in relational {DBMSs} and on-line analytical processing. We also briefly review alternative system software technologies in the context of our {requirements.The} paper attempts to be vendor neutral, so no specific commercial products are mentioned.},
+	number = {4},
+	journal = {{ACM} {SIGMOD} Record},
+	author = {Stonebraker, Michael and Cetintemel, Ugur and Zdonik, Stan},
+	month = dec,
+	year = {2005},
+	keywords = {streaming, streams},
+	pages = {42–47}
+},
+
+@inproceedings{akidau_millwheel:_2013,
+	title = {{MillWheel:} Fault-Tolerant Stream Processing at Internet Scale},
+	abstract = {{MillWheel} is a framework for building low-latency data-processing applications that is widely used at Google. Users specify a directed computation graph and application code for individual nodes, and the system manages persistent state and the continuous flow of records, all within the envelope of the framework's fault-tolerance guarantees. This paper describes {MillWheel's} programming model as well as its implementation. The case study of a continuous anomaly detector in use at Google serves to motivate how many of {MillWheel's} features are used. {MillWheel's} programming model provides a notion of logical time, making it simple to write time-based aggregations. {MillWheel} was designed from the outset with fault tolerance and scalability in mind. In practice, we find that {MillWheel's} unique combination of scalability, fault tolerance, and a versatile programming model lends itself to a wide variety of problems at Google.},
+	booktitle = {Very Large Data Bases},
+	author = {Akidau, Tyler and Balikov, Alex and Bekiroglu, Kaya and Chernyak, Slava and Haberman, Josh and Lax, Reuven and {McVeety}, Sam and Mills, Daniel and Nordstrom, Paul and Whittle, Sam},
+	year = {2013},
+	pages = {734–746}
+},
+
+@book{russell_cloudera_????,
+	title = {Cloudera Impala},
+	url = {http://www.oreilly.com/data/free/cloudera-impala.csp},
+	publisher = {{O'Reilly}},
+	author = {Russell, John}
+},
+
+@book{zaki_data_????,
+	edition = {Draft},
+	title = {Data Mining and Analysis: Fundamental Concepts and Algorithms},
+	url = {http://dataminingbook.info/},
+	publisher = {Cambridge University Press},
+	author = {Zaki, Mohammed and Meira, Wagner Jr.}
+},
+
+@book{murray_interactive_2013,
+	title = {Interactive Data Visualization for the Web},
+	url = {http://chimera.labs.oreilly.com/books/1230000000345},
+	publisher = {{O'Reilly} Media},
+	author = {Murray, Scott},
+	month = mar,
+	year = {2013}
+},
+
+@book{barlow_culture_2013,
+	title = {The Culture of Big Data},
+	url = {http://www.oreilly.com/data/free/culture-of-big-data.csp},
+	abstract = {Technology does not exist in a vacuum. In the same way that a plant needs water and nourishment to grow, technology needs people and process to thrive and succeed. Culture (i.e., people and process) is integral and critical to the success of any new technology deployment or implementation.
+
+Big data is not just a technology phenomenon. It has a cultural dimension. It's vitally important to remember that most people have not considered the immense difference between a world seen through the lens of a traditional relational database system and a world seen through the lens of a Hadoop Distributed File System. This paper broadly describes the cultural challenges that accompany efforts to create and sustain big data initiatives in an evolving world whose data management processes are rooted firmly in traditional data warehouse architectures.},
+	publisher = {{O'Reilly}},
+	author = {Barlow, Mike},
+	month = oct,
+	year = {2013}
+},
+
+@book{harris_analyzing_2013,
+	title = {Analyzing the Analyzers: An Introspective Survey of Data Scientists and Their Work},
+	url = {http://www.oreilly.com/data/free/analyzing-the-analyzers.csp},
+	abstract = {Despite the excitement around "data science," "big data," and "analytics," the ambiguity of these terms has led to poor communication between data scientists and organizations seeking their help. In this report, authors Harlan Harris, Sean Murphy, and Marck Vaisman examine their survey of several hundred data science practitioners in mid-2012, when they asked respondents how they viewed their skills, careers, and experiences with prospective employers. The results are striking.},
+	publisher = {{O'Reilly}},
+	author = {Harris, Harlan and Murphy, Sean and Vaisman, Marck},
+	month = jun,
+	year = {2013}
+},
+
+@book{smith_postgresql_2010,
+	title = {{PostgreSQL} 9.0 High Performance},
+	url = {http://www.packtpub.com/postgresql-90-high-performance/book},
+	publisher = {Packt Publishing},
+	author = {Smith, Gregory},
+	month = oct,
+	year = {2010}
+},
+
+@book{gray_data_2012,
+	title = {The Data Journalism Handbook},
+	url = {http://datajournalismhandbook.org/},
+	publisher = {{O'Reilly} Media},
+	author = {Gray, Jonathan and Chambers, Lucy and Bounegru, Liliana},
+	month = jul,
+	year = {2012}
+},
+
+@book{needham_disruptive_2013,
+	title = {Disruptive Possibilities: How Big Data Changes Everything},
+	url = {http://shop.oreilly.com/product/0636920029526.do},
+	publisher = {{O'Reilly} Media},
+	author = {Needham, Jeffrey},
+	month = may,
+	year = {2013}
+},
+
+@book{hewitt_cassandra:_2010,
+	title = {Cassandra: The Definitive Guide},
+	url = {http://shop.oreilly.com/product/0636920010852.do},
+	publisher = {{O'Reilly} Media},
+	author = {Hewitt, Eben},
+	month = nov,
+	year = {2010}
+},
+
+@misc{rodriguez_titan:_2012,
+	title = {Titan: The Rise of Big Graph Data},
+	url = {http://www.slideshare.net/slidarko/titan-the-rise-of-big-graph-data},
+	abstract = {A graph is a data structure composed of vertices/dots and edges/lines. A graph database is a software system used to persist and process graphs. The common conception in today's database community is that there is a tradeoff between the scale of data and the complexity/interlinking of data. To challenge this understanding, Aurelius has developed Titan under the liberal Apache 2 license. Titan supports both the size of modern data and the modeling power of graphs to usher in the era of Big Graph Data. Novel techniques in edge compression, data layout, and vertex-centric indices that exploit significant orders are used to facilitate the representation and processing of a single atomic graph structure across a multi-machine cluster. To ensure ease of adoption by the graph community, Titan natively implements the {TinkerPop} 2 Blueprints {API.} This presentation will review the graph landscape, Titan's techniques for scale by distribution, and a collection of satellite graph technologies to be released by Aurelius in the coming summer months of 2012.},
+	author = {Rodriguez, Marko A.},
+	month = jun,
+	year = {2012}
+},
+
+@misc{broecheler_titan:_2012,
+	title = {Titan: Big Graph Data with Cassandra},
+	url = {http://www.slideshare.net/knowfrominfo/titan-big-graph-data-with-cassandra},
+	abstract = {Titan is an open source distributed graph database build on top of Cassandra that can power real-time applications with thousands of concurrent users over graphs with billions of edges. Graphs are a versatile data model for capturing and analyzing rich relational structures. Graphs are an increasingly popular way to represent data in a wide range of domains such as social networking, recommendation engines, advertisement optimization, knowledge representation, health care, education, and security.
+
+This presentation discusses Titan's data model, query language, and novel techniques in edge compression, data layout, and vertex-centric indices which facilitate the representation and processing of Big Graph Data across a Cassandra cluster. We demonstrate Titan's performance on a large scale benchmark evaluation using Twitter data.
+
+Presented at the Cassandra 2012 Summit.},
+	author = {Broecheler, Matthias},
+	month = aug,
+	year = {2012}
+},
+
+@book{robinson_graph_2013,
+	title = {Graph Databases},
+	url = {http://graphdatabases.com/},
+	publisher = {{O'Reilly} Media},
+	author = {Robinson, Ian and Webber, Jim and Eifrem, Emil},
+	month = jun,
+	year = {2013}
+}
