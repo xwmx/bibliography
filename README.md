@@ -373,6 +373,9 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     http://www.cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf
 -   Tyler Akidau et al., “MillWheel: Fault-Tolerant Stream Processing at
     Internet Scale,” in *Very Large Data Bases*, 2013, 734–746
+-   Ralph Kimball, *Newly Emerging Best Practices for Big Data* (Kimball
+    Group, September 30, 2012),
+    http://www.kimballgroup.com/2012/09/30/newly-emerging-best-practices-for-big-data/
 -   Michael Stonebraker, “One Size Fits None - (Everything You Learned
     in Your DBMS Class Is Wrong)” (presented at the The Summer Research
     Institute, School of Computer and Communication Sciences at EPFL in
@@ -416,6 +419,9 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Mike Loukides, *The Evolution of Data Products*, Strata (O’Reilly,
     September 15, 2011),
     http://strata.oreilly.com/2011/09/evolution-of-data-products.html
+-   Ralph Kimball, *The Evolving Role of the Enterprise Data Warehouse
+    in the Era of Big Data Analytics* (Kimball Group, April 29, 2011),
+    http://www.kimballgroup.com/2011/04/29/the-evolving-role-of-the-enterprise-data-warehouse-in-the-era-of-big-data-analytics/
 -   Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung, “The Google
     File System,” in *Proceedings of the Nineteenth ACM Symposium on
     Operating Systems Principles*, SOSP ’03 (New York, NY, USA: ACM,
