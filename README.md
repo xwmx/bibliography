@@ -11,8 +11,6 @@ The primary areas of focus are:
 
 Additionally, there several books and papers about design, journalism, publishing, content strategy, and copyright.
 
-Note that this list is still very incomplete, and I also intend to add readable versions in markdown.
-
 Many of the items here are listed on my Readmill profile with shared highlights: https://readmill.com/hi
 
 ---
