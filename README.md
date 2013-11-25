@@ -37,6 +37,10 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Brian J Broughman and Jesse M Fried, “Carrots and Sticks: How VCs
     Induce Entrepreneurial Teams to Sell Startups,” *Cornell L. Review*
     98, no. 6 (October 6, 2013): 1319–1357
+-   C.E. Eesley and E.B. Roberts, “Cutting Your Teeth: The Beginning of
+    the Learning Curve,” in *Management of Engineering Technology, 2009.
+    PICMET 2009. Portland International Conference on*, 2009, 1858–1874,
+    doi:10.1109/PICMET.2009.5261956
 -   Jesse M. Fried, Brian J. Broughman, and Darian M. Ibrahim, *Delaware
     Law as Lingua Franca: Theory and Evidence*, Paper, Harvard Public
     Law Working Paper, October 9, 2012,
@@ -125,6 +129,9 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     http://www.nber.org/papers/w13056
 -   Brian J Broughman, *The Role of Independent Directors in VC-Backed
     Firms*, October 13, 2008, http://ssrn.com/abstract=1162372
+-   Charles Eesley and Edwards Roberts, *The Second Time Around? Repeat
+    Entrepreneurs from MIT*, October 25, 2006,
+    http://www.stanford.edu/~cee/Papers/Second_Time_Around.doc
 -   Steve Blank, “The Secret History of Silicon Valley,” n.d.,
     http://steveblank.com/category/secret-history-of-silicon-valley/
 -   Deborah Gage, “The Venture Capital Secret: 3 Out of 4 Start-Ups
@@ -145,6 +152,9 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Jess Bachman, “What Is the Truth behind ‘9 out of 10 Startups
     Fail’?,” *Quora*, September 6, 2010,
     http://www.quora.com/What-is-the-truth-behind-9-out-of-10-startups-fail
+-   Yael V. Hochberg, Alexander Ljungqvist, and Yang Lu, “Whom You Know
+    Matters: Venture Capital Networks and Investment Performance,”
+    *Journal of Finance* 62, no. 1 (February 2007): 251–301
 -   John H. Matheson, “Why Courts Pierce: An Empirical Study of Piercing
     the Corporate Veil,” *Berkeley Business Law Journal* 7, no. 1
     (January 1, 2010), http://ssrn.com/abstract=1870375
@@ -363,6 +373,11 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     http://www.cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf
 -   Tyler Akidau et al., “MillWheel: Fault-Tolerant Stream Processing at
     Internet Scale,” in *Very Large Data Bases*, 2013, 734–746
+-   Michael Stonebraker, “One Size Fits None - (Everything You Learned
+    in Your DBMS Class Is Wrong)” (presented at the The Summer Research
+    Institute, School of Computer and Communication Sciences at EPFL in
+    Lausanne, Switzerland, May 30, 2013),
+    http://slideshot.epfl.ch/play/suri_stonebraker
 -   Edd Dumbill, *Planning for Big Data: A CIO’s Handbook to the
     Changing Data Landscape*, Strata (O’Reilly, March 2012),
     http://www.oreilly.com/data/free/planning-for-big-data.csp
