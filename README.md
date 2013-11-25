@@ -5,7 +5,7 @@ A collection of books and papers I've read over the past year during my semi-sab
 
 The primary areas of focus are:
 
-* Entrepreneurship and Venture Capital
+* Entrepreneurship, Business Law, and Venture Capital
 * Computer Science and Software Engineering
 * Data, Databases, and Data Science
 
@@ -15,7 +15,7 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 
 ---
 
-## Entrepreneurship, Finance, Law, and Venture Capital
+## Entrepreneurship, Finance, Business Law, and Venture Capital
 
 -   Brian J. Broughman et al., *A License to Grow: Ending State, Local,
     and Some Federal Barriers to Innovation and Growth in Key Sectors of
