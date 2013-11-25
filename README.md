@@ -71,7 +71,7 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Alisha Ramos, “In the Shark Tank: The Social Construction of
     Gendered Valuation and the Venture Capital Financing of Women’s
     Technology Start-Ups” (Harvard College, 2012),
-    http://alisharamos.com/women-vc-funding/AlishaRamos\_Thesis.pdf
+    http://alisharamos.com/women-vc-funding/AlishaRamos_Thesis.pdf
 -   Steven M. Davidoff, “In Venture Capital Deals, Not Every Founder
     Will Be a Zuckerberg,” *New York Times*, April 30, 2013, sec
     Dealbook,
@@ -218,7 +218,7 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     Services,” in *LISA’07: Proceedings of the 21st Conference on Large
     Installation System Administration Conference* (Dallas: USENIX
     Association, 2007), 1–12,
-    http://mvdirona.com/jrh/talksandpapers/jamesrh\_lisa.pdf
+    http://mvdirona.com/jrh/talksandpapers/jamesrh_lisa.pdf
 -   Simon Phipps, *Open Source Strategies for the Enterprise* (O’Reilly
     Media, 2012), http://shop.oreilly.com/product/0636920027379.do
 -   Nick Parlante, “Pointers and Memory,” n.d.,
@@ -286,13 +286,13 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     http://www.oreilly.com/data/free/analyzing-the-analyzers.csp
 -   *Big Data Gets Personal*, MIT Technology Review Business Reports,
     May 2013,
-    http://www.sapbigdata.com/wp-content/uploads/2013/09/SAP\_Business\_Report\_Personal\_Data.pdf
+    http://www.sapbigdata.com/wp-content/uploads/2013/09/SAP_Business_Report_Personal_Data.pdf
 -   O’Reilly Radar Team, *Big Data Now*, Strata (O’Reilly Media, August
     2011), http://shop.oreilly.com/product/0636920022640.do
 -   McKinsey Global Institute et al., *Big Data: The next Frontier for
     Innovation, Competition, and Productivity* (McKinsey Global
     Institute, May 2011),
-    http://www.mckinsey.com/insights/business\_technology/big\_data\_the\_next\_frontier\_for\_innovation
+    http://www.mckinsey.com/insights/business_technology/big_data_the_next_frontier_for_innovation
 -   Fay Chang et al., “Bigtable: A Distributed Storage System for
     Structured Data,” *ACM Trans. Comput. Syst.* 26, no. 2 (June 2008):
     4:1–4:26, doi:10.1145/1365815.1365816
@@ -362,7 +362,7 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Jason Baker et al., “Megastore: Providing Scalable, Highly Available
     Storage for Interactive Services,” in *Proceedings of the Conference
     on Innovative Data System Research (CIDR)*, 2011, 223–234,
-    http://www.cidrdb.org/cidr2011/Papers/CIDR11\_Paper32.pdf
+    http://www.cidrdb.org/cidr2011/Papers/CIDR11_Paper32.pdf
 -   Tyler Akidau et al., “MillWheel: Fault-Tolerant Stream Processing at
     Internet Scale,” in *Very Large Data Bases*, 2013, 734–746
 -   Edd Dumbill, *Planning for Big Data: A CIO’s Handbook to the
@@ -446,7 +446,7 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Asaf Degani, *On The Typography of Flight-Deck Documentation*,
     Technical Report, Nasa Contractor Report (National Aeronautics and
     Space Administration, December 1992),
-    http://ti.arc.nasa.gov/m/profile/adegani/Flight-Deck\_Documentation.pdf
+    http://ti.arc.nasa.gov/m/profile/adegani/Flight-Deck_Documentation.pdf
 -   Todd Zaki Warfel, *Prototyping* (Rosenfeld Media, 2009),
     https://rosenfeldmedia.com/books/prototyping/
 -   Dan Cederholm, *Sass for Web Designers* (A Book Apart, 2013),
@@ -455,7 +455,7 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     2009), http://searchuserinterfaces.com/
 -   Alejandro Lo Celso, “Serial Type Families (from Romulus to Thesis),”
     2004,
-    https://www.typotheque.com/articles/serial\_type\_families\_from\_romulus\_to\_thesis
+    https://www.typotheque.com/articles/serial_type_families_from_romulus_to_thesis
 -   Frank Chimero, *The Shape of Design*, 2012,
     http://www.shapeofdesignbook.com/
 -   Smashing Magazine, *The Smashing Book \#3 | Redesign The Web*
@@ -509,7 +509,7 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Patty Sakunkoo and Nathan Sakunkoo, “Analysis of Social Influence in
     Online Book Reviews” (presented at the 3rd Int’l AAAI Conference on
     Weblogs and Social Media, San Jose, California, 2009),
-    http://graphics.stanford.edu/\~sakunkoo/papers/ICWSM-09\_Koo.pdf
+    http://graphics.stanford.edu/\~sakunkoo/papers/ICWSM-09_Koo.pdf
 -   Matthew J Salganik, Peter Sheridan Dodds, and Duncan J Watts,
     “Experimental Study of Inequality and Unpredictability in an
     Artificial Cultural Market,” *Science* 311, no. 5762 (2006):
@@ -526,7 +526,7 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Reginald Braithwaite, *Steal Raganwald’s Book!* (Leanpub, 2012),
     https://leanpub.com/stealthisbook
 -   Todd Presner, “The Digital Humanities Manifesto 2.0,” n.d.,
-    http://www.humanitiesblast.com/manifesto/Manifesto\_V2.pdf
+    http://www.humanitiesblast.com/manifesto/Manifesto_V2.pdf
 -   Barry Schwartz, “The Tyranny of Choice,” *Scientific American*,
     March 22, 2004,
     http://www.swarthmore.edu/SocSci/bschwar1/Sci.Amer.pdf
