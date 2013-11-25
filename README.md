@@ -1,7 +1,7 @@
 Bibliography
 ============
 
-A collection of things I've read over the past year and a half during my semi-sabbatical.
+A collection of books and papers I've read over the past year during my semi-sabbatical.
 
 The primary areas of focus are:
 
