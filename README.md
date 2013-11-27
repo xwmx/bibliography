@@ -517,6 +517,9 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Jonathan Gray, Lucy Chambers, and Liliana Bounegru, *The Data
     Journalism Handbook* (O’Reilly Media, 2012),
     http://datajournalismhandbook.org/
+-   Erin Kissane, *The Elements of Content Strategy* (A Book Apart,
+    2011),
+    http://www.abookapart.com/products/the-elements-of-content-strategy
 
 ---
 
