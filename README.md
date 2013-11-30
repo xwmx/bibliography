@@ -22,13 +22,13 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     the U.S. Economy*, January 2012, http://ssrn.com/abstract=2002212
 -   Jesse M. Fried and Mira Ganor, “Agency Costs of Venture Capitalist
     Control in Startups,” *New York University Law Review* 81 (2006):
-    967–1025
+    967–1025.
 -   Vivek Wadhwa et al., *Anatomy of an Entrepreneur: Family Background
     and Motivation*, Kauffman Foundation Small Research Projects
     Research (Kauffman Foundation, July 7, 2009),
     http://www.kauffman.org/what-we-do/research/2010/05/the-anatomy-of-an-entrepreneur
 -   Andrew Y. Wong, *Angel Finance: The Other Venture Capital*, January
-    2002\
+    2002.
 -   J McGrath Cohoon, Vivek Wadhwa, and Lesa Mitchell, *Are Successful
     Women Entrepreneurs Different from Men?*, May 11, 2010,
     http://ssrn.com/abstract=1604653
@@ -36,11 +36,20 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     http://www.hyperink.com/Business-School-For-Startups-b127
 -   Brian J Broughman and Jesse M Fried, “Carrots and Sticks: How VCs
     Induce Entrepreneurial Teams to Sell Startups,” *Cornell L. Review*
-    98, no. 6 (October 6, 2013): 1319–1357
--   C.E. Eesley and E.B. Roberts, “Cutting Your Teeth: The Beginning of
-    the Learning Curve,” in *Management of Engineering Technology, 2009.
-    PICMET 2009. Portland International Conference on*, 2009, 1858–1874,
-    doi:10.1109/PICMET.2009.5261956
+    98, no. 6 (October 6, 2013): 1319–1357.
+-   Jesse M. Fried and Mira Ganor, *Common Shareholder Vulnerability in
+    Venture-Backed Startups*, April 10, 2005,
+    http://www.law.virginia.edu/pdf/olin/04papers/fried_ganor.pdf
+-   Bob Reder, David Schwartz, and Roxana Azizi, “Corporate Governance
+    Feature: Delaware Courts Weigh In On Books and Records Inspections,”
+    *The M&A Lawyer*, June 2011,
+    http://www.milbank.com/images/content/5/1/5185.pdf
+-   C.E. Eesley and E.B. Roberts, “Cutting Your Teeth: Learning from
+    Entrepreneurial Experiences,” in *Management of Engineering
+    Technology, 2009. PICMET 2009. Portland International Conference
+    on*, 2009, 1858–1874, doi:10.1109/PICMET.2009.5261956
+-   Venkatesh Rao, “Deep Play,” *Aeon Magazine*, November 18, 2013,
+    http://www.aeonmagazine.com/world-views/what-does-silicon-valley-tell-us-about-innovation/
 -   Jesse M. Fried, Brian J. Broughman, and Darian M. Ibrahim, *Delaware
     Law as Lingua Franca: Theory and Evidence*, Paper, Harvard Public
     Law Working Paper, October 9, 2012,
@@ -52,7 +61,7 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     5, 2009, http://ssrn.com/abstract=1483278
 -   Brian J Broughman and Jesse M Fried, “Do VCs Use Inside Rounds to
     Dilute Founders? Some Evidence from Silicon Valley,” *Journal of
-    Corporate Finance* 18 (June 27, 2012): 1104–1120
+    Corporate Finance* 18 (June 27, 2012): 1104–1120.
 -   Brian J. Broughman, *Entrepreneur Wealth and Demand for Limited
     Liability*, Paper, Indiana Legal Studies Research, October 16, 2013,
     http://ssrn.com/abstract=1761011
@@ -64,26 +73,37 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     (presented at the Academy of Management Conference, Denver, CO,
     2002),
     http://www.effectuation.org/paper/failing-firms-and-successful-entrepreneurs-serial-entrepreneurship-simple-machine
+-   Andy Heughebaert and Sophie Manigart, “Firm Valuation in Venture
+    Capital Financing Rounds: The Role of Investor Bargaining Power,”
+    *Journal of Business Finance & Accounting* 39, no. 3–4 (2012):
+    500–530.
 -   Gary Hamel, “First, Let’s Fire All The Managers,” *Harvard Business
     Review*, December 2011,
     http://hbr.org/2011/12/first-lets-fire-all-the-managers
 -   Noam Wasserman, “Founder-CEO Succession and the Paradox of
     Entrepreneurial Success,” *Organization Science* 14, no. 2 (April
-    2003): 149–172
+    2003): 149–172.
 -   Alisha Ramos, “In the Shark Tank: The Social Construction of
     Gendered Valuation and the Venture Capital Financing of Women’s
     Technology Start-Ups” (Harvard College, 2012),
     http://alisharamos.com/women-vc-funding/AlishaRamos_Thesis.pdf
 -   Steven M. Davidoff, “In Venture Capital Deals, Not Every Founder
-    Will Be a Zuckerberg,” *New York Times*, April 30, 2013, sec
+    Will Be a Zuckerberg,” *New York Times*, April 30, 2013, sec.
     Dealbook,
     dealbook.nytimes.com/2013/04/30/in-venture-capital-deals-not-every-founder-will-be-a-zuckerberg/
 -   Brian J Broughman, *Independent Directors and Shared Board Control
     in Venture Finance*, Indiana Legal Studies Research Paper, April 6,
     2012, http://ssrn.com/abstract=1123840
+-   Armin Schwienbacher, “Innovation and Venture Capital Exits,” *The
+    Economic Journal* 118, no. 533 (2008): 1888–1916,
+    doi:10.1111/j.1468-0297.2008.02195.x
 -   Brian J Broughman, “Investor Opportunism and Governance in Venture
     Capital,” in *Companion to Venture Capital*, 2009,
     http://ssrn.com/abstract=1364133
+-   Pierre Giot and Armin Schwienbacher, “IPOs, Trade Sales and
+    Liquidations: Modelling Venture Capital Exits Using Survival
+    Analysis,” *Journal of Banking & Finance* 31, no. 3 (2007): 679 –
+    702, doi:http://dx.doi.org/10.1016/j.jbankfin.2006.06.010
 -   Dan Provost, Tom Gerhardt, and Clay Shirky, *It Will Be
     Exhilarating: Indie Capitalism and Design Entrepreneurship in the
     21st Century* (Studio Neat, 2012),
@@ -105,6 +125,11 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Patrick McKenzie, *Sell More Software: Website Conversion
     Optimization for Software Developers* (Hyperink, n.d.),
     http://www.hyperink.com/Sell-More-Software-Website-Conversion-Optimization-For-Software-Developers-b9B393B465B
+-   *Shareholder Inspection Rights: Delaware Supreme Court Provides
+    Guidance to Shareholders Seeking Corporate Books and Records to
+    Investigate Suitability of Directors to Serve* (Willkie Farr &
+    Gallagher LLP, August 17, 2010),
+    http://www.willkie.com/files/tbl_s29Publications%5CFileUpload5686%5C3473%5CDelaware-Supreme-Court-Provides-Guidance.pdf
 -   Paul A. Gompers et al., *Skill vs. Luck in Entrepreneurship and
     Venture Capital: Evidence from Serial Entrepreneurs*, July 2006,
     http://ssrn.com/abstract=933932
@@ -113,6 +138,10 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     Economic Research, August 2013), http://www.nber.org/papers/w19276
 -   David McRaney, “Survivorship Bias,” *You Are Not So Smart*, May 23,
     2013, http://youarenotsosmart.com/2013/05/23/survivorship-bias/
+-   Daniel N. Deli and Mukunthan Santhanakrishnan, “Syndication in
+    Venture Capital Financing,” *The Financial Review* 45, no. 3 (August
+    3, 2010),
+    http://student.bus.olemiss.edu/files/VanNessR/Financial%20Review/Info%20on%20Forthcoming%20-%20can%20we%20delete%20this%20directory/FR0927.pdf
 -   Seth Godin, *The Bootstrapper Bible*, 2004,
     http://www.sethgodin.com/sg/docs/bootstrap.pdf
 -   Robert E. Hall and Susan E. Woodward, *The Burden of the
@@ -123,20 +152,39 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     or Go?,” *HBS Working Knowledge - Faculty Research at Harvard
     Business School*, August 15, 2005,
     http://hbswk.hbs.edu/item/4948.html
+-   Venkatesh Rao, *The Gervais Principle* (Ribbonfarm, Inc., 2013),
+    http://www.ribbonfarm.com/the-gervais-principle/
+-   Vladimir Atanasov, Vladimir Ivanov, and Kate Litvak, *The Impact of
+    Litigation on Venture Capitalist Reputation*, Working Paper
+    (National Bureau of Economic Research, November 2007),
+    http://www.nber.org/papers/w13641
 -   Robert E. Hall and Susan E. Woodward, *The Incentives to Start New
     Companies: Evidence from Venture Capital*, Working Paper (National
     Bureau of Economic Research, April 2007),
     http://www.nber.org/papers/w13056
 -   Brian J Broughman, *The Role of Independent Directors in VC-Backed
     Firms*, October 13, 2008, http://ssrn.com/abstract=1162372
+-   Rebecca Zarutskie, “The Role of Top Management Team Human Capital in
+    Venture Capital Markets: Evidence from First-Time Funds,” *Journal
+    of Business Venturing* 25, no. 1 (January 2010): 155–172.
 -   Charles Eesley and Edwards Roberts, *The Second Time Around? Repeat
     Entrepreneurs from MIT*, October 25, 2006,
-    http://www.stanford.edu/~cee/Papers/Second_Time_Around.doc
+    http://www.stanford.edu/\~cee/Papers/Second_Time_Around.doc
 -   Steve Blank, “The Secret History of Silicon Valley,” n.d.,
     http://steveblank.com/category/secret-history-of-silicon-valley/
+-   Megan D. McIntyre, *The Stockholder’s Statutory Right to Inspect
+    Corporate Books and Records* (Grant & Eisenhofer P.A., 2010),
+    http://www.gelaw.com/wp-content/uploads/2011/05/2010_Books_and_Records.pdf
 -   Deborah Gage, “The Venture Capital Secret: 3 Out of 4 Start-Ups
     Fail,” *Wall Street Journal*, September 20, 2012,
     http://online.wsj.com/news/articles/SB10000872396390443720204578004980476429190
+-   Ronald J. Gilson and David M. Schizer, “Understanding Venture
+    Capital Structure: A Tax Explanation for Convertible Preferred
+    Stock,” *Harvard Law Review* 116, no. 3 (January 2003): 874–916.
+-   Dirk Bergemann, Ulrich Hege, and Liang Peng, *Venture Capital and
+    Sequential Investments*, Cowles Foundation Discussion Papers (Cowles
+    Foundation for Research in Economics, Yale University, October
+    2008), http://ideas.repec.org/p/cwl/cwldpp/1682.html
 -   Armin Schwienbacher, “Venture Capital Exits,” in *Companion to
     Venture Capital* (Wiley/Blackwell, 2009),
     http://ssrn.com/abstract=1367047
@@ -145,6 +193,12 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     Foundation’s Investments in Venture Capital Funds and the Triumph of
     Hope Over Experience*, May 2012,
     http://www.kauffman.org/what-we-do/research/2012/05/we-have-met-the-enemy-and-he-is-us
+-   Scott Edward Walker, “What Are the Rights of Minority
+    Stockholders?,” *Venture Beat*, July 18, 2011,
+    http://venturebeat.com/2011/07/18/what-are-the-rights-of-minority-stockholders/
+-   David H. Hsu, “What Do Entrepreneurs Pay for Venture Capital
+    Affiliation?,” *The Journal of Finance* 59, no. 4 (2004): 1805–1844,
+    doi:10.1111/j.1540-6261.2004.00680.x
 -   Dr William H. Janeway, “What I Learned by Doing Capitalism” (LSE
     public lecture, Sheikh Zayed Theatre, New Academic Building, October
     11, 2012),
@@ -154,13 +208,15 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     http://www.quora.com/What-is-the-truth-behind-9-out-of-10-startups-fail
 -   Yael V. Hochberg, Alexander Ljungqvist, and Yang Lu, “Whom You Know
     Matters: Venture Capital Networks and Investment Performance,”
-    *Journal of Finance* 62, no. 1 (February 2007): 251–301
+    *Journal of Finance* 62, no. 1 (February 2007): 251–301.
 -   John H. Matheson, “Why Courts Pierce: An Empirical Study of Piercing
     the Corporate Veil,” *Berkeley Business Law Journal* 7, no. 1
     (January 1, 2010), http://ssrn.com/abstract=1870375
 -   Steve Blank, “Why the Lean Start-Up Changes Everything,” *Harvard
     Business Review*, May 2013,
     http://hbr.org/2013/05/why-the-lean-start-up-changes-everything
+
+
 
 ---
 
