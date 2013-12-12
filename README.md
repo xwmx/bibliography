@@ -37,6 +37,9 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Brian J Broughman and Jesse M Fried, “Carrots and Sticks: How VCs
     Induce Entrepreneurial Teams to Sell Startups,” *Cornell L. Review*
     98, no. 6 (October 6, 2013): 1319–1357.
+-   Ola Bengtsson and John R.M. Hand, “CEO Compensation in Venture
+    Capital Markets,” *Journal of Business Venturing* 26, no. 4 (July
+    2011): 391–411.
 -   Jesse M. Fried and Mira Ganor, *Common Shareholder Vulnerability in
     Venture-Backed Startups*, April 10, 2005,
     http://www.law.virginia.edu/pdf/olin/04papers/fried_ganor.pdf
@@ -73,6 +76,10 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     (presented at the Academy of Management Conference, Denver, CO,
     2002),
     http://www.effectuation.org/paper/failing-firms-and-successful-entrepreneurs-serial-entrepreneurship-simple-machine
+-   Steven N. Kaplan and Per Stromberg, *Financial Contracting Theory
+    Meets the Real World: An Empirical Analysis of Venture Capital
+    Contracts*, Working Paper (National Bureau of Economic Research,
+    April 2000), http://www.nber.org/papers/w7660
 -   Andy Heughebaert and Sophie Manigart, “Firm Valuation in Venture
     Capital Financing Rounds: The Role of Investor Bargaining Power,”
     *Journal of Business Finance & Accounting* 39, no. 3–4 (2012):
@@ -83,6 +90,9 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Noam Wasserman, “Founder-CEO Succession and the Paradox of
     Entrepreneurial Success,” *Organization Science* 14, no. 2 (April
     2003): 149–172.
+-   Douglas Cumming and Na Dai, “Fund Size, Limited Attention and
+    Valuation of Venture Capital Backed Firms,” *Journal of Empirical
+    Finance* 18, no. 1 (January 2011): 2–15.
 -   Alisha Ramos, “In the Shark Tank: The Social Construction of
     Gendered Valuation and the Venture Capital Financing of Women’s
     Technology Start-Ups” (Harvard College, 2012),
@@ -100,6 +110,10 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Brian J Broughman, “Investor Opportunism and Governance in Venture
     Capital,” in *Companion to Venture Capital*, 2009,
     http://ssrn.com/abstract=1364133
+-   Thomas Hellmann, “IPOs, Acquisitions, and the Use of Convertible
+    Securities in Venture Capital,” *Journal of Financial Economics* 81,
+    no. 3 (2006): 649 – 679,
+    doi:http://dx.doi.org/10.1016/j.jfineco.2005.06.007
 -   Pierre Giot and Armin Schwienbacher, “IPOs, Trade Sales and
     Liquidations: Modelling Venture Capital Exits Using Survival
     Analysis,” *Journal of Banking & Finance* 31, no. 3 (2007): 679 –
@@ -142,6 +156,12 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     Venture Capital Financing,” *The Financial Review* 45, no. 3 (August
     3, 2010),
     http://student.bus.olemiss.edu/files/VanNessR/Financial%20Review/Info%20on%20Forthcoming%20-%20can%20we%20delete%20this%20directory/FR0927.pdf
+-   Janke Dittmer, Joseph A. McCahery, and Erik P.M. Vermeulen, *The
+    “New” Venture Capital Cycle and the Role of Governments: The
+    Emergence of Collaborative Funding Models and Platforms*, Working
+    Paper, Lex Research Topics in Corporate Law & Economics, November
+    20, 2013,
+    http://papers.ssrn.com/sol3/papers.cfm?abstract\_id=2357771
 -   Seth Godin, *The Bootstrapper Bible*, 2004,
     http://www.sethgodin.com/sg/docs/bootstrap.pdf
 -   Robert E. Hall and Susan E. Woodward, *The Burden of the
@@ -162,6 +182,9 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     Companies: Evidence from Venture Capital*, Working Paper (National
     Bureau of Economic Research, April 2007),
     http://www.nber.org/papers/w13056
+-   John H. Cochrane, *The Risk and Return of Venture Capital*, Working
+    Paper (National Bureau of Economic Research, January 2001),
+    http://www.nber.org/papers/w8066
 -   Brian J Broughman, *The Role of Independent Directors in VC-Backed
     Firms*, October 13, 2008, http://ssrn.com/abstract=1162372
 -   Rebecca Zarutskie, “The Role of Top Management Team Human Capital in
@@ -185,6 +208,9 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     Sequential Investments*, Cowles Foundation Discussion Papers (Cowles
     Foundation for Research in Economics, Yale University, October
     2008), http://ideas.repec.org/p/cwl/cwldpp/1682.html
+-   Jeffrey J. Trester, “Venture Capital Contracting under Asymmetric
+    Information,” *Journal of Banking & Finance* 22, no. 6–8 (1998): 675
+    – 699, doi:http://dx.doi.org/10.1016/S0378-4266(98)00013-2
 -   Armin Schwienbacher, “Venture Capital Exits,” in *Companion to
     Venture Capital* (Wiley/Blackwell, 2009),
     http://ssrn.com/abstract=1367047
@@ -588,6 +614,9 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     Online Book Reviews” (presented at the 3rd Int’l AAAI Conference on
     Weblogs and Social Media, San Jose, California, 2009),
     http://graphics.stanford.edu/\~sakunkoo/papers/ICWSM-09_Koo.pdf
+-   Clayton M. Christensen, Dina Wang, and Derek van Bever, “Consulting
+    on the Cusp of Disruption,” *Harvard Business Review*, October 2013,
+    http://hbr.org/2013/10/consulting-on-the-cusp-of-disruption/
 -   Matthew J Salganik, Peter Sheridan Dodds, and Duncan J Watts,
     “Experimental Study of Inequality and Unpredictability in an
     Artificial Cultural Market,” *Science* 311, no. 5762 (2006):
