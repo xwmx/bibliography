@@ -17,6 +17,9 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 
 ## Entrepreneurship, Finance, Business Law, and Venture Capital
 
+-   Noam Wasserman, “‘Rich versus King’: Charts and Impressions,”
+    November 25, 2005,
+    http://www.noamwasserman.com/2005/11/25/rich-versus-king-charts-and-impressions/
 -   Brian J. Broughman et al., *A License to Grow: Ending State, Local,
     and Some Federal Barriers to Innovation and Growth in Key Sectors of
     the U.S. Economy*, January 2012, http://ssrn.com/abstract=2002212
@@ -136,6 +139,9 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Brian J Broughman and Jesse M Fried, *Renegotiation of Cash Flow
     Rights in the Sale of VC-Backed Firms*, Paper, UC Berkeley Public
     Law Research, June 23, 2008, http://ssrn.com/abstract=956243
+-   Noam Wasserman, “Rich versus King: The Entrepreneur’s Dilemma,” in
+    *Academy of Management Annual Meeting Proceedings*, 2006,
+    http://www.people.hbs.edu/nwasserman/Rich_vs_King-Proceedings_with_abstract.pdf
 -   Patrick McKenzie, *Sell More Software: Website Conversion
     Optimization for Software Developers* (Hyperink, n.d.),
     http://www.hyperink.com/Sell-More-Software-Website-Conversion-Optimization-For-Software-Developers-b9B393B465B
@@ -150,6 +156,9 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Ross Levine and Yona Rubinstein, *Smart and Illicit: Who Becomes an
     Entrepreneur and Does It Pay?*, Working Paper (National Bureau of
     Economic Research, August 2013), http://www.nber.org/papers/w19276
+-   Noam Wasserman, “Stewards, Agents, and the Founder Discount:
+    Executive Compensation in New Ventures,” *The Academy of Management
+    Journal* 49, no. 5 (October 2006): 960–976.
 -   David McRaney, “Survivorship Bias,” *You Are Not So Smart*, May 23,
     2013, http://youarenotsosmart.com/2013/05/23/survivorship-bias/
 -   Daniel N. Deli and Mukunthan Santhanakrishnan, “Syndication in
@@ -168,6 +177,10 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     Nondiversifiable Risk of Entrepreneurship*, Working Paper (National
     Bureau of Economic Research, August 2008),
     http://www.nber.org/papers/w14219
+-   Thomas F. Hellmann and Noam Wasserman, *The First Deal: The Division
+    of Founder Equity in New Ventures*, Working Paper (National Bureau
+    of Economic Research, April 2011),
+    http://www.nber.org/papers/w16922
 -   Mike Roberts and Noam Wasserman, “The Founding CEO’s Dilemma: Stay
     or Go?,” *HBS Working Knowledge - Faculty Research at Harvard
     Business School*, August 15, 2005,
