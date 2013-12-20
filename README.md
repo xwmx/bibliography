@@ -107,6 +107,8 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     http://www.oreilly.com/programming/free/past-present-future-javascript.csp
 -   Paul Graham, “The Roots of Lisp,” May 2001,
     http://www.paulgraham.com/rootsoflisp.html
+-   James Mickens, “The Saddest Moment,” *;login: Logout* (May 2013),
+    http://research.microsoft.com/en-us/people/mickens/thesaddestmoment.pdf
 -   Leslie Lamport, “Time, Clocks, and the Ordering of Events in a
     Distributed System,” *Commun. ACM* 21, no. 7 (July 1978): 558–565,
     doi:10.1145/359545.359563
@@ -326,6 +328,9 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Alejandro Lo Celso, “Serial Type Families (from Romulus to Thesis),”
     2004,
     https://www.typotheque.com/articles/serial_type_families_from_romulus_to_thesis
+-   Donald A. Norman, *The Design of Everyday Things*, Revised and
+    Expanded Edition, 2013,
+    http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107
 -   Frank Chimero, *The Shape of Design*, 2012,
     http://www.shapeofdesignbook.com/
 -   Smashing Magazine, *The Smashing Book \#3 | Redesign The Web*
@@ -368,6 +373,10 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   J McGrath Cohoon, Vivek Wadhwa, and Lesa Mitchell, *Are Successful
     Women Entrepreneurs Different from Men?*, May 11, 2010,
     http://ssrn.com/abstract=1604653
+-   Thomas Åstebro and Carlos J. Serrano, *Business Partners, Financing,
+    and the Commercialization of Inventions*, Working Paper (National
+    Bureau of Economic Research, June 2011),
+    http://www.nber.org/papers/w17181
 -   Fred Wilson, *Business School For Startups* (Hyperink, n.d.),
     http://www.hyperink.com/Business-School-For-Startups-b127
 -   Brian J Broughman and Jesse M Fried, “Carrots and Sticks: How VCs
@@ -379,6 +388,8 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Jesse M. Fried and Mira Ganor, *Common Shareholder Vulnerability in
     Venture-Backed Startups*, April 10, 2005,
     http://www.law.virginia.edu/pdf/olin/04papers/fried_ganor.pdf
+-   Thomas F. Hellmann and Veikko Thiele, *Contracting Among Founders*,
+    October 9, 2013, http://ssrn.com/abstract=1968696
 -   Bob Reder, David Schwartz, and Roxana Azizi, “Corporate Governance
     Feature: Delaware Courts Weigh In On Books and Records Inspections,”
     *The M&A Lawyer*, June 2011,
@@ -401,6 +412,9 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Brian J Broughman and Jesse M Fried, “Do VCs Use Inside Rounds to
     Dilute Founders? Some Evidence from Silicon Valley,” *Journal of
     Corporate Finance* 18 (June 27, 2012): 1104–1120.
+-   Christine M. Beckman, Diane M. Burton, and Charles O’Reilly, “Early
+    Teams: The Impact of Team Demography on VC Financing and Going
+    Public,” *Journal of Business Venturing* 22, no. 2 (2007): 147–173.
 -   Brian J. Broughman, *Entrepreneur Wealth and Demand for Limited
     Liability*, Paper, Indiana Legal Studies Research, October 16, 2013,
     http://ssrn.com/abstract=1761011
@@ -426,9 +440,15 @@ Many of the items here are listed on my Readmill profile with shared highlights:
 -   Noam Wasserman, “Founder-CEO Succession and the Paradox of
     Entrepreneurial Success,” *Organization Science* 14, no. 2 (April
     2003): 149–172.
+-   Christine M. Beckman, “Founding the Future: Path Dependence in the
+    Evolution of Top Management Teams from Founding to IPO,”
+    *Organization Science* 19, no. 1 (February 2008): 3–24.
 -   Douglas Cumming and Na Dai, “Fund Size, Limited Attention and
     Valuation of Venture Capital Backed Firms,” *Journal of Empirical
     Finance* 18, no. 1 (January 2011): 2–15.
+-   Nick Bilton, *Hatching Twitter: A True Story of Money, Power,
+    Friendship, and Betrayal* (Portfolio Hardcover, 2013),
+    http://www.amazon.com/Hatching-Twitter-Story-Friendship-Betrayal/dp/1591846013
 -   Alisha Ramos, “In the Shark Tank: The Social Construction of
     Gendered Valuation and the Venture Capital Financing of Women’s
     Technology Start-Ups” (Harvard College, 2012),
@@ -514,6 +534,14 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     of Founder Equity in New Ventures*, Working Paper (National Bureau
     of Economic Research, April 2011),
     http://www.nber.org/papers/w16922
+-   Alicia M. Robb and David T. Robinson, *The Capital Structure
+    Decisions of New Firms*, Working Paper (National Bureau of Economic
+    Research, August 2010), http://www.nber.org/papers/w16272
+-   Noam Wasserman, *The Founder’s Dilemmas*, Kauffman Foundation Series
+    on Innovation and Entrepreneurship (Princeton University Press,
+    2013).
+-   Noam Wasserman, “The Founder’s Dilemma,” *Harvard Business Review*,
+    February 2008, http://hbr.org/2008/02/the-founders-dilemma/ar/1
 -   Mike Roberts and Noam Wasserman, “The Founding CEO’s Dilemma: Stay
     or Go?,” *HBS Working Knowledge - Faculty Research at Harvard
     Business School*, August 15, 2005,
@@ -528,6 +556,9 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     Companies: Evidence from Venture Capital*, Working Paper (National
     Bureau of Economic Research, April 2007),
     http://www.nber.org/papers/w13056
+-   Christine M. Beckman, “The Influence of Founding Team Company
+    Affiliations on Firm Behavior,” *Academy of Management Journal* 49,
+    no. 4 (2006): 741–758.
 -   John H. Cochrane, *The Risk and Return of Venture Capital*, Working
     Paper (National Bureau of Economic Research, January 2001),
     http://www.nber.org/papers/w8066
@@ -538,12 +569,16 @@ Many of the items here are listed on my Readmill profile with shared highlights:
     of Business Venturing* 25, no. 1 (January 2010): 155–172.
 -   Charles Eesley and Edwards Roberts, *The Second Time Around? Repeat
     Entrepreneurs from MIT*, October 25, 2006,
-    http://www.stanford.edu/\~cee/Papers/Second_Time_Around.doc
+    http://www.stanford.edu/~cee/Papers/Second_Time_Around.doc
 -   Steve Blank, “The Secret History of Silicon Valley,” n.d.,
     http://steveblank.com/category/secret-history-of-silicon-valley/
 -   Megan D. McIntyre, *The Stockholder’s Statutory Right to Inspect
     Corporate Books and Records* (Grant & Eisenhofer P.A., 2010),
     http://www.gelaw.com/wp-content/uploads/2011/05/2010_Books_and_Records.pdf
+-   Martin Ruef, Howard E. Aldrich, and Nancy M. Carter, “The Structure
+    of Founding Teams: Homophily, Strong Ties, and Isolation Among U.S.
+    Entrepreneurs,” *American Sociological Review* 68, no. 2 (2003):
+    195–222.
 -   Deborah Gage, “The Venture Capital Secret: 3 Out of 4 Start-Ups
     Fail,” *Wall Street Journal*, September 20, 2012,
     http://online.wsj.com/news/articles/SB10000872396390443720204578004980476429190
