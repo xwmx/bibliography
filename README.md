@@ -13,6 +13,9 @@ Additionally, there several books and papers about design, journalism, publishin
 
 Many of the items here are listed on my Readmill profile with shared highlights: https://readmill.com/hi
 
+Not yet included are a selection of items related to stock options and
+employee compensation: http://readlists.com/ec990520/
+
 ---
 
 ## Computer Science, Software Engineering, and Technology
