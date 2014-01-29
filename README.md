@@ -45,9 +45,6 @@ employee compensation: http://readlists.com/ec990520/
     Languages of Program Design*, ed. N. Harrison, B. Foote, and H.
     Rohnert, vol. 4 (Addison-Wesley, 2000), 654–692,
     http://www.laputan.org/mud/mud.html
--   Brian Foote and Joseph W. Yoder, “Big Ball of Mud,” in *Pattern
-    Languages of Program Design*, ed. N. Harrison, B. Foote, and H.
-    Rohnert, vol. 4 (Addison-Wesley, 2000), 654–692,
     http://www.laputan.org/mud/mud.html
 -   Seth Gilbert and Nancy Lynch, “Brewer’s Conjecture and the
     Feasibility of Consistent, Available, Partition-Tolerant Web
