@@ -12,7 +12,6 @@ The primary areas of focus are:
 * [Journalism, Publishing, and Content](#journalism-publishing-and-content)
 * [Miscellaneous](#miscellaneous)
 
-<!-- toc stop -->
 Additionally, there several books and papers about design, journalism, publishing, content strategy, and copyright.
 
 Many of the items here are listed on my Readmill profile with shared highlights: https://readmill.com/hi
@@ -393,6 +392,9 @@ employee compensation: http://readlists.com/ec990520/
 -   Smashing Magazine, *The Smashing Book \#3 | Redesign The Web*
     (Smashing Media GmbH, 2012),
     https://shop.smashingmagazine.com/smashing-book-3-printed-and-or-ebook.html
+-   Barry Schwartz, “The Tyranny of Choice,” *Scientific American*,
+    March 22, 2004,
+    http://www.swarthmore.edu/SocSci/bschwar1/Sci.Amer.pdf
 -   Frederick Hamilton, *The Uses of Italic: A Primer of Information
     Regarding the Origin and Uses of Italic Letters*, 1918,
     http://www.gutenberg.org/ebooks/24829
@@ -819,13 +821,9 @@ employee compensation: http://readlists.com/ec990520/
     January 2013), http://www.nber.org/papers/w18693
 -   Todd Presner, “The Digital Humanities Manifesto 2.0,” n.d.,
     http://www.humanitiesblast.com/manifesto/Manifesto_V2.pdf
--   Barry Schwartz, “The Tyranny of Choice,” *Scientific American*,
-    March 22, 2004,
-    http://www.swarthmore.edu/SocSci/bschwar1/Sci.Amer.pdf
 -   Suzanne B. Shu and Kurt A. Carlson, “When Three Charms but Four
     Alarms: Identifying the Optimal Number of Claims in Persuasion
     Settings,” *Journal of Marketing* 78, no. 1 (October 1, 2013):
     127–139, doi:10.1509/jm.11.0504
-
 
 
