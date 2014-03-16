@@ -12,8 +12,6 @@ The primary areas of focus are:
 * [Journalism, Publishing, and Content](#journalism-publishing-and-content)
 * [Miscellaneous](#miscellaneous)
 
-Additionally, there several books and papers about design, journalism, publishing, content strategy, and copyright.
-
 Many of the items here are listed on my Readmill profile with shared highlights: https://readmill.com/hi
 
 Not yet included are a selection of items related to stock options and
