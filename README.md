@@ -5,10 +5,14 @@ A collection of books and papers I've read over the past year during my semi-sab
 
 The primary areas of focus are:
 
-* Entrepreneurship, Business Law, and Venture Capital
-* Computer Science and Software Engineering
-* Data, Databases, and Data Science
+* [Computer Science, Software Engineering, and Technology](#computer-science-software-engineering-and-technology)
+* [Data, Databases, and Data Science](#data-databases-and-data-science)
+* [Design and Product Development](#design-and-product-development)
+* [Entrepreneurship, Finance, Business Law, and Venture Capital](#entrepreneurship-finance-business-law-and-venture-capital)
+* [Journalism, Publishing, and Content](#journalism-publishing-and-content)
+* [Miscellaneous](#miscellaneous)
 
+<!-- toc stop -->
 Additionally, there several books and papers about design, journalism, publishing, content strategy, and copyright.
 
 Many of the items here are listed on my Readmill profile with shared highlights: https://readmill.com/hi
